@@ -8,4 +8,4 @@ Guacamole
 ### Measurements
 
 ## Directions
-boil the avocado
+dont boil the avocado
