@@ -1,2 +1,6 @@
-/receipts
-
+*.png
+receipts/
+receipts/plots
+receipts/*.jpg
+!receipts/data
+**/*.docx
