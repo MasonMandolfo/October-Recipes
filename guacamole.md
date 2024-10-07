@@ -1,6 +1,6 @@
 Guacamole
 ## Ingredients
-* avacado
+* avocado
 * lime
 * cilantro
 * salt
@@ -8,3 +8,4 @@ Guacamole
 ### Measurements
 
 ## Directions
+boil the avocado
